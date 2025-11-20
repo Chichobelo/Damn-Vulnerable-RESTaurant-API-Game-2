@@ -188,6 +188,10 @@ Esto se conoce como **IDOR (Insecure Direct Object Reference)**.
 ### ✔ Código corregido:
 ![Código corregido](./images/page_17_img_1.png)
 
+### 🧪 Vulnerabilidad solucionada
+
+![Cambio malicioso](./images/page_18_img_1.png)
+
 ---
 
 # 🧨 Nivel 3 – Escalación de privilegios
@@ -206,9 +210,6 @@ En pocas palabras:
 
 ---
 
-### 🧪 Evidencia
-
-![Cambio malicioso](./images/page_18_img_1.png)
 
 #### Cambios reflejados en la BD:
 ![BD 1](./images/page_19_img_1.png)  
